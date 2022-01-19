@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @oalaoui
 - 👀 I’m interested in Blockhain
 - 🌱 I’m currently learning ... how to build a an Exhange
-- 💞️ I’m looking to collaborate on tokenization, compliance, exhange protocols
+- 💞️ I’m looking to collaborate on tokenization, compliance, exchange protocols, ...
 - 📫 How to reach me ... 
 
 <!---
